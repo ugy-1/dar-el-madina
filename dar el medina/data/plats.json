@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nom": "Couscous au poisson",
+    "categorie": "Plats",
+    "prix": 28,
+    "image": "https://picsum.photos/seed/couscous/600/400",
+    "description": "Semoule fine, mérou et légumes de saison.",
+    "nouveau": true
+  },
+  {
+    "id": 2,
+    "nom": "Brik à l'œuf",
+    "categorie": "Entrées",
+    "prix": 6,
+    "image": "https://picsum.photos/seed/brik/600/400",
+    "description": "Feuille de malsouka croustillante, œuf et thon.",
+    "nouveau": false
+  },
+  {
+    "id": 3,
+    "nom": "Ojja merguez",
+    "categorie": "Plats",
+    "prix": 22,
+    "image": "https://picsum.photos/seed/ojja/600/400",
+    "description": "Tomates, poivrons, merguez et œufs.",
+    "nouveau": true
+  },
+  {
+    "id": 4,
+    "nom": "Lablabi",
+    "categorie": "Plats",
+    "prix": 10,
+    "image": "https://picsum.photos/seed/lablabi/600/400",
+    "description": "Soupe de pois chiches, pain rassis, harissa et cumin.",
+    "nouveau": false
+  },
+  {
+    "id": 5,
+    "nom": "Makroudh",
+    "categorie": "Desserts",
+    "prix": 5,
+    "image": "https://picsum.photos/seed/makroudh/600/400",
+    "description": "Pâtisserie de semoule fourrée aux dattes et miel.",
+    "nouveau": false
+  },
+  {
+    "id": 6,
+    "nom": "Thé à la menthe",
+    "categorie": "Boissons",
+    "prix": 3,
+    "image": "https://picsum.photos/seed/the/600/400",
+    "description": "Thé vert, menthe fraîche, pignons.",
+    "nouveau": false
+  }
+]
