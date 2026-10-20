@@ -1,25 +1,17 @@
 .hero {
-  background: linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)),
-              url("https://picsum.photos/seed/medina/1600/700")
-              center / cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)), url("https://picsum.photos/seed/medina/1600/700") center / cover no-repeat;
   min-height: 70vh;
 }
-/* css/style.css – Q2.5 */
-
-/* Partie 03 : hauteur fixe des images des cartes */
-#liste-plats .card-img-top {
+.card-img-top {
   height: 200px;
   object-fit: cover;
 }
-
-/* Partie 04 : hauteur fixe des images du carrousel */
-.carousel-img {
+#carouselGalerie .carousel-item img {
   height: 450px;
   object-fit: cover;
 }
-
 @media (max-width: 768px) {
-  .carousel-img {
+  #carouselGalerie .carousel-item img {
     height: 250px;
   }
 }
