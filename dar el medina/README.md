@@ -2,9 +2,6 @@
 
 A responsive restaurant website built with Bootstrap 5.
 
-## Screenshots
-![Home page](docs/home.png)
-
 ## Features
 - Responsive navbar with collapsible menu
 - Menu section with cards
@@ -19,6 +16,6 @@ A responsive restaurant website built with Bootstrap 5.
 ## Getting Started
 1. Clone the repo
 2. Open `index.html` in a browser
-   (or run a local server: `python -m http.server 8000`)
+  
 
 ## Project Structure
