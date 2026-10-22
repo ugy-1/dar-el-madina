@@ -4,7 +4,7 @@
     "nom": "Couscous au poisson",
     "categorie": "Plats",
     "prix": 28,
-    "image": "couscous-au-poisson.jpg",
+    "image": "all photos\couscous-au-poisson.jpg",
     "description": "Semoule fine, mérou et légumes de saison.",
     "nouveau": true
   },
@@ -13,7 +13,7 @@
     "nom": "Brik à l'œuf",
     "categorie": "Entrées",
     "prix": 6,
-    "image": "Brik-à-l'œuf.pjg",
+    "image": "all photos\Brik-à-l'œuf.pjg",
     "description": "Feuille de malsouka croustillante, œuf et thon.",
     "nouveau": false
   },
@@ -22,7 +22,7 @@
     "nom": "Ojja merguez",
     "categorie": "Plats",
     "prix": 22,
-    "image": "Ojja-merguez.pjg"
+    "image": "all photos\Ojja-merguez.pjg"
     "description": "Tomates, poivrons, merguez et œufs.",
     "nouveau": true
   },
@@ -31,7 +31,7 @@
     "nom": "Lablabi",
     "categorie": "Plats",
     "prix": 10,
-    "image": "Lablabi.pjg",
+    "image": "all photos\Lablabi.pjg",
     "description": "Soupe de pois chiches, pain rassis, harissa et cumin.",
     "nouveau": false
   },
@@ -40,7 +40,7 @@
     "nom": "Makroudh",
     "categorie": "Desserts",
     "prix": 5,
-    "image": "Makroudh.jpg",
+    "image": "all photos\Makroudh.jpg",
     "description": "Pâtisserie de semoule fourrée aux dattes et miel.",
     "nouveau": false
   },
@@ -49,8 +49,7 @@
     "nom": "Thé à la menthe",
     "categorie": "Boissons",
     "prix": 3,
-    "image": "Thé-à-la-menthe.jpg"
+    "image": "all photos\Thé-à-la-menthe.jpg"
     "description": "Thé vert, menthe fraîche, pignons.",
     "nouveau": false
   }
-]
